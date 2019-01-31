@@ -4,6 +4,19 @@
 
 This is the Sanity Studio instance that powers the portfolio. It includes the data models for adding projects and authors.
 
+## Get started
+
+```shell
+# Install the Sanity CLI
+npm i -g @sanity/cli
+
+# Within this folder, run
+sanity init
+
+# and follow the instructions to create a new project.
+# We recommend using a public dataset the first time
+```
+
 ## See also:
 
 - The [Gatsby site that uses this data](https://github.com/jlengstorf/sanity-gatsby-portfolio)
